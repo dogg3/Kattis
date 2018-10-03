@@ -1,6 +1,6 @@
 # Kattis
 
-# KTH Royal Institute of Technology - Coding Project - https://open.kattis.com/
+# KTH Royal Institute of Technology - Coding Problems - solved - https://open.kattis.com/
 
 <div style="background:black">
 Problems
@@ -16,4 +16,4 @@ Problems
 
 <hr>
 
-<p>Under the Algo directory, some well-known Sorting algorithms are implemented</p>
+<p>Under the Algo directory, some well-known Sorting algorithms are implemented.</p>
