@@ -12,3 +12,8 @@ Problems
  <li>R2</li>
 
 </div>
+
+
+<hr>
+
+<p>Under the Algo directory, is some well-known Sorting algorithms implemented</p>
