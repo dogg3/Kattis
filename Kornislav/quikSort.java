@@ -1,18 +1,74 @@
-public class InsertionSort{
+import java.util.*;
+import java.io.*;
 
-
-	public static void main(Strin[] args){
-
-		private int[] testArray = {2,3,61,23,5,41,2,23,4,5}
-
-		insertionSort(testArray, testArray.length);
+public class quikSort{
 	
+
+	public static void main(String[] args) throws IOException{
+
+		int[] array = new int[4];
+		int i = 0;
+		Scanner sc = null;
+
+
+		try{
+
+			sc = new Scanner(new FileReader("kornislav.1.in"));
+
+
+
+			while(sc.hasNext()){
+				array[i] = sc.nextInt();
+		
+				i++;
+
+			}
+		}finally{
+			sc.close();
+		}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		insertionSort(array, array.length);
+
+		int area = array[0]*array[2];
+		System.out.println(area); 
+
+		
+	
+	
+
+
+
 	}
 
-	public void insertionSort(int[] array, int length){
+
+
+
+
+
+
+
+
+	public static void insertionSort(int[] array, int length){
 			int i,j, key;
 
-		for(int i =1; i<length1; i++){
+		for( i =1; i<length; i++){
 
 			key = array[i];
 			j = i-1;
@@ -31,7 +87,8 @@ public class InsertionSort{
 
 			}
 
-				a[j+1]= key;
+				array[j+1]= key;
+
 
 		}
 
