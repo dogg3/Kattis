@@ -17,3 +17,9 @@ Problems
 <hr>
 
 <p>Under the Algo directory, some well-known Sorting algorithms are implemented.</p>
+
+
+
+
+<a href="http://douglaslandvik.com">My website</a>
+<a href="mailto:douglas.landvik@gmail.com">
