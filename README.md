@@ -16,4 +16,4 @@ Problems
 
 <hr>
 
-<p>Under the Algo directory, is some well-known Sorting algorithms implemented</p>
+<p>Under the Algo directory, some well-known Sorting algorithms are implemented</p>
