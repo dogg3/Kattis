@@ -16,6 +16,6 @@ ALGOFILES=./Algos/*
 for file in $ALGOFILES
 do
         echo $(basename $file) >> README.md
-	printf \n
+	printf \n >> README.md
 done
 

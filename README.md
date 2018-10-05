@@ -16,7 +16,8 @@ Trik
 These are som well-know algoritms, implemented in Java
 
 Factorial.class
-Factorial.java
-InsertionSort.class
-InsertionSort.java
-SumOfSquares.java
+nFactorial.java
+nInsertionSort.class
+nInsertionSort.java
+nSumOfSquares.java
+n
