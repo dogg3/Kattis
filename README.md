@@ -1,25 +1,22 @@
-# Kattis
+These are the solved problems
 
-# KTH Royal Institute of Technology - Coding Problems - solved - https://open.kattis.com/
+Autori
+Bijele
+Faktor
+HissingMicrophone
+ICPC
+Kornislav
+Quad
+R2
+SevenWonder
+Sibice
+Tri
+Trik
 
-<div style="background:black">
-Problems
- <li> Autori</li>
- <li>Faktor</li>
- <li>Quad</li>
- <li> Bijele</li>
- <li>Trik</li>
- <li>R2</li>
+These are som well-know algoritms, implemented in Java
 
-</div>
-
-
-<hr>
-
-<p>Under the Algo directory, some well-known Sorting algorithms are implemented.</p>
-
-
-
-
-<a href="http://douglaslandvik.com">My website</a><br>
-<a href="mailto:douglas.landvik@gmail.com">Email me!</a>
+Factorial.class
+Factorial.java
+InsertionSort.class
+InsertionSort.java
+SumOfSquares.java
