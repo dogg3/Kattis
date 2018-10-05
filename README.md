@@ -1,6 +1,6 @@
 These are the solved problems
 
-Autori
+<h1>Autori</h1>
 
 Bijele
 
