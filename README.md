@@ -1,4 +1,4 @@
-These are the solved problems
+<h1>These are the solved problems</h1>
 
 Autori
 
@@ -25,7 +25,7 @@ Tri
 Trik
 
 
-These are som well-know algoritms, implemented in Java
+<h1>These are som well-know algoritms, implemented in Java</h1>
 
 Factorial.class
 
