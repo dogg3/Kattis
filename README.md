@@ -4,6 +4,8 @@ Autori
 
 Bijele
 
+Dice
+
 Faktor
 
 Flip
