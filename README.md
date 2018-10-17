@@ -4,6 +4,8 @@ Autori
 
 Bijele
 
+CD
+
 Dice
 
 Faktor
@@ -15,6 +17,8 @@ HissingMicrophone
 ICPC
 
 Kornislav
+
+Moose
 
 Quad
 
@@ -30,6 +34,10 @@ Trik
 
 
 <h1>These are som well-know algoritms, implemented in Java</h1>
+
+BinarySearch.class
+
+BinarySearch.java
 
 Factorial.class
 
