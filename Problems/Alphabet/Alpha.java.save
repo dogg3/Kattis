@@ -1,0 +1,27 @@
+import java.io.*;
+import java.util.*;
+
+class Moose {
+    
+    
+    public static void main(String[] args) throws IOException{
+        Scanner sc = null;
+      
+
+        try{
+            sc = new Scanner(new FileReader("1.in"));
+                while(sc.hasNext()){
+		
+                }
+
+
+          
+        }finally{
+
+            sc.close();
+
+        }
+
+        }
+        
+    }

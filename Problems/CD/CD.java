@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+
 class CD {
     
     
@@ -20,36 +21,45 @@ class CD {
                    
                     numbers.add(sc.nextInt());
                 }
+            
 
-                
               antal1 = numbers.get(0);
               antal2 = numbers.get(1);
 
+              int beginning = antal1+2;
+              int end =  beginning+antal2;
              
+              List<Integer> lst = numbers.subList(beginning,end);
+
+        
 
 
-              int i = 2;
-              int j = antal1+2;
-              int count = 0 ;
+           
+
+        
 
 
-            
-              
+            int count = 0;
+        
 
+           for(int i=2; i<antal1+2; i++){
 
-            }
+            if(Collections.binarySearch(lst, numbers.get(i))>=0){
+              count++;
+            };
+         } 
+           
 
+                   System.out.println(count);
 
-
-                
-             System.out.println(count);
           
         }finally{
 
             sc.close();
 
-        }
-
-        }
-        
+ 
     }
+  }
+
+
+}

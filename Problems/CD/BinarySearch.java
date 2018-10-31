@@ -1,8 +1,11 @@
 import java.lang.*;
 import java.util.*;
-package Algo;
+
+
     public class BinarySearch {
 
+    		
+    
     	public static int binarySearch(int[] array, int value, int left, int right){
 
     		if(right<left){

@@ -1,5 +1,7 @@
 <h1>These are the solved problems</h1>
 
+Alphabet
+
 Autori
 
 Bijele
@@ -9,6 +11,8 @@ CD
 Dice
 
 Faktor
+
+FizzBuzz
 
 Flip
 
