@@ -37,7 +37,7 @@ Tri
 Trik
 
 
-<h1>These are som well-know algoritms, implemented in Java</h1>
+<h1>These are som well-known algoritms, implemented in Java</h1>
 
 BinarySearch.class
 
@@ -54,4 +54,19 @@ InsertionSort.java
 SumOfSquares.java
 
 TailFactorial.java
+
+
+<h1>These are som well-known data structures, implemented in Java</h1>
+
+ArrayQueue
+
+HashTable
+
+Heap
+
+PriorityQueue
+
+SingleLinkedList
+
+Stack
 
