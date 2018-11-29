@@ -39,21 +39,13 @@ Trik
 
 <h1>These are som well-known algoritms, implemented in Java</h1>
 
-BinarySearch.class
+BinarySearch
 
-BinarySearch.java
+Factorial
 
-Factorial.class
+InsertionSort
 
-Factorial.java
-
-InsertionSort.class
-
-InsertionSort.java
-
-SumOfSquares.java
-
-TailFactorial.java
+TailFactorial
 
 
 <h1>These are som well-known data structures, implemented in Java</h1>
