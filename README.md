@@ -52,6 +52,8 @@ TailFactorial
 
 ArrayQueue
 
+DoubleArrayLength
+
 HashTable
 
 Heap
