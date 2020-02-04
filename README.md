@@ -71,3 +71,9 @@ SingleLinkedList
 
 Stack
 
+
+
+[1]: http://www.github.com/dogg3
+[2]: https://www.linkedin.com/in/doggeland
+
+
